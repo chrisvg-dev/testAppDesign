@@ -4515,6 +4515,191 @@
 							"propertyLabel": {
 								"$ref": "AAAAAAF1jAXmA+Bl4WI="
 							}
+						},
+						{
+							"_type": "UMLClassView",
+							"_id": "AAAAAAF1jCjxmKeeGLo=",
+							"_parent": {
+								"$ref": "AAAAAAF1i+LXL6gkDfM="
+							},
+							"model": {
+								"$ref": "AAAAAAF1jCjxl6ecovw="
+							},
+							"subViews": [
+								{
+									"_type": "UMLNameCompartmentView",
+									"_id": "AAAAAAF1jCjxmKefIIg=",
+									"_parent": {
+										"$ref": "AAAAAAF1jCjxmKeeGLo="
+									},
+									"model": {
+										"$ref": "AAAAAAF1jCjxl6ecovw="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF1jCjxmKegd6k=",
+											"_parent": {
+												"$ref": "AAAAAAF1jCjxmKefIIg="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"height": 13
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF1jCjxmKeh+BM=",
+											"_parent": {
+												"$ref": "AAAAAAF1jCjxmKefIIg="
+											},
+											"font": "Arial;13;1",
+											"left": 141,
+											"top": 775,
+											"width": 81.60546875,
+											"height": 13,
+											"text": "Brujo o truco"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF1jCjxmKeiV/0=",
+											"_parent": {
+												"$ref": "AAAAAAF1jCjxmKefIIg="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"width": 80.9072265625,
+											"height": 13,
+											"text": "(from Model1)"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF1jCjxmKejSTI=",
+											"_parent": {
+												"$ref": "AAAAAAF1jCjxmKefIIg="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"height": 13,
+											"horizontalAlignment": 1
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 136,
+									"top": 768,
+									"width": 91.60546875,
+									"height": 25,
+									"stereotypeLabel": {
+										"$ref": "AAAAAAF1jCjxmKegd6k="
+									},
+									"nameLabel": {
+										"$ref": "AAAAAAF1jCjxmKeh+BM="
+									},
+									"namespaceLabel": {
+										"$ref": "AAAAAAF1jCjxmKeiV/0="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAF1jCjxmKejSTI="
+									}
+								},
+								{
+									"_type": "UMLAttributeCompartmentView",
+									"_id": "AAAAAAF1jCjxmaekFjU=",
+									"_parent": {
+										"$ref": "AAAAAAF1jCjxmKeeGLo="
+									},
+									"model": {
+										"$ref": "AAAAAAF1jCjxl6ecovw="
+									},
+									"subViews": [
+										{
+											"_type": "UMLAttributeView",
+											"_id": "AAAAAAF1jCklGKhu4oM=",
+											"_parent": {
+												"$ref": "AAAAAAF1jCjxmaekFjU="
+											},
+											"model": {
+												"$ref": "AAAAAAF1jCkkyahcZFs="
+											},
+											"font": "Arial;13;0",
+											"left": 141,
+											"top": 798,
+											"width": 81.60546875,
+											"height": 13,
+											"text": "+Anonimo: D",
+											"horizontalAlignment": 0
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 136,
+									"top": 793,
+									"width": 91.60546875,
+									"height": 23
+								},
+								{
+									"_type": "UMLOperationCompartmentView",
+									"_id": "AAAAAAF1jCjxmaelum0=",
+									"_parent": {
+										"$ref": "AAAAAAF1jCjxmKeeGLo="
+									},
+									"model": {
+										"$ref": "AAAAAAF1jCjxl6ecovw="
+									},
+									"font": "Arial;13;0",
+									"left": 136,
+									"top": 816,
+									"width": 91.60546875,
+									"height": 10
+								},
+								{
+									"_type": "UMLReceptionCompartmentView",
+									"_id": "AAAAAAF1jCjxmaemlPg=",
+									"_parent": {
+										"$ref": "AAAAAAF1jCjxmKeeGLo="
+									},
+									"model": {
+										"$ref": "AAAAAAF1jCjxl6ecovw="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"width": 10,
+									"height": 10
+								},
+								{
+									"_type": "UMLTemplateParameterCompartmentView",
+									"_id": "AAAAAAF1jCjxmaencYg=",
+									"_parent": {
+										"$ref": "AAAAAAF1jCjxmKeeGLo="
+									},
+									"model": {
+										"$ref": "AAAAAAF1jCjxl6ecovw="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"width": 10,
+									"height": 10
+								}
+							],
+							"font": "Arial;13;0",
+							"containerChangeable": true,
+							"left": 136,
+							"top": 768,
+							"width": 91.60546875,
+							"height": 58,
+							"nameCompartment": {
+								"$ref": "AAAAAAF1jCjxmKefIIg="
+							},
+							"attributeCompartment": {
+								"$ref": "AAAAAAF1jCjxmaekFjU="
+							},
+							"operationCompartment": {
+								"$ref": "AAAAAAF1jCjxmaelum0="
+							},
+							"receptionCompartment": {
+								"$ref": "AAAAAAF1jCjxmaemlPg="
+							},
+							"templateParameterCompartment": {
+								"$ref": "AAAAAAF1jCjxmaencYg="
+							}
 						}
 					]
 				},
@@ -4532,7 +4717,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF1i+Lttagoci0="
 							},
-							"name": "id"
+							"name": "id",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4540,7 +4726,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF1i+Lttagoci0="
 							},
-							"name": "nombre"
+							"name": "nombre",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4548,7 +4735,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF1i+Lttagoci0="
 							},
-							"name": "apellidoPaterno"
+							"name": "apellidoPaterno",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4556,7 +4744,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF1i+Lttagoci0="
 							},
-							"name": "apellidoMaterno"
+							"name": "apellidoMaterno",
+							"type": ""
 						}
 					]
 				},
@@ -4616,7 +4805,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF1i+NghqhUqQw="
 							},
-							"name": "nControl"
+							"name": "nControl",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4624,7 +4814,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF1i+NghqhUqQw="
 							},
-							"name": "carrera"
+							"name": "carrera",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4632,7 +4823,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF1i+NghqhUqQw="
 							},
-							"name": "IdGrupo"
+							"name": "IdGrupo",
+							"type": ""
 						}
 					]
 				},
@@ -4719,7 +4911,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF1i+OBcKh/ncI="
 							},
-							"name": "nDocente"
+							"name": "nDocente",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4727,7 +4920,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF1i+OBcKh/ncI="
 							},
-							"name": "especialidad"
+							"name": "especialidad",
+							"type": ""
 						}
 					]
 				},
@@ -4745,7 +4939,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF1i+V6IKkKbrQ="
 							},
-							"name": "id"
+							"name": "id",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4753,7 +4948,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF1i+V6IKkKbrQ="
 							},
-							"name": "valorExamen"
+							"name": "valorExamen",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4761,7 +4957,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF1i+V6IKkKbrQ="
 							},
-							"name": "nPreguntas"
+							"name": "nPreguntas",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4778,7 +4975,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF1i+V6IKkKbrQ="
 							},
-							"name": "tema"
+							"name": "tema",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4786,7 +4984,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF1i+V6IKkKbrQ="
 							},
-							"name": "unidad"
+							"name": "unidad",
+							"type": ""
 						}
 					]
 				},
@@ -4846,7 +5045,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF1i+aCb6k+bG8="
 							},
-							"name": "idAlumno"
+							"name": "idAlumno",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -4997,7 +5197,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF1i/QRxa17b6s="
 							},
-							"name": "Id"
+							"name": "Id",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5005,7 +5206,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF1i/QRxa17b6s="
 							},
-							"name": "nombre"
+							"name": "nombre",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5013,7 +5215,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF1i/QRxa17b6s="
 							},
-							"name": "nAlumnos"
+							"name": "nAlumnos",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5021,7 +5224,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF1i/QRxa17b6s="
 							},
-							"name": "especialidad"
+							"name": "especialidad",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5029,7 +5233,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF1i/QRxa17b6s="
 							},
-							"name": "IdDocente"
+							"name": "IdDocente",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -5197,7 +5402,8 @@
 									"_parent": {
 										"$ref": "AAAAAAF1jAEUX8hsb5g="
 									},
-									"name": "Docente do"
+									"name": "Docente do",
+									"type": ""
 								}
 							]
 						},
@@ -5215,7 +5421,8 @@
 									"_parent": {
 										"$ref": "AAAAAAF1jAHVw81hyFU="
 									},
-									"name": "int id"
+									"name": "int id",
+									"type": ""
 								}
 							]
 						},
@@ -5233,7 +5440,8 @@
 									"_parent": {
 										"$ref": "AAAAAAF1jAJ9T87jTy4="
 									},
-									"name": "Docente do"
+									"name": "Docente do",
+									"type": ""
 								}
 							]
 						},
@@ -5259,9 +5467,29 @@
 									"_parent": {
 										"$ref": "AAAAAAF1jAMe/tDTeZI="
 									},
-									"name": "int id"
+									"name": "int id",
+									"type": ""
 								}
 							]
+						}
+					]
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAF1jCjxl6ecovw=",
+					"_parent": {
+						"$ref": "AAAAAAF1i+LXL6gjbtY="
+					},
+					"name": "Brujo o truco",
+					"attributes": [
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAF1jCkkyahcZFs=",
+							"_parent": {
+								"$ref": "AAAAAAF1jCjxl6ecovw="
+							},
+							"name": "Anonimo",
+							"type": "D"
 						}
 					]
 				}
